@@ -2,6 +2,9 @@
 
 ## 하루에 최소 한가지의 내용이라도 공부
 
+### Java
+- [데이터 타입 Integer와 Int의 차이](https://kyhyuk.tistory.com/176)
+
 ### Git
 - [Git의 정의와 목적](https://kyhyuk.tistory.com/161?category=1022344)
 - [원격(Remote) 저장소와 로컬(Local) 저장소](https://kyhyuk.tistory.com/162?category=1022344)
