@@ -15,6 +15,7 @@
 - [브랜치(Branch)](https://kyhyuk.tistory.com/167?category=1022344)
 - [통합 브랜치, 토픽 브랜치](https://kyhyuk.tistory.com/168?category=1022344)
 - [브랜치 만들기, 전환하기](https://kyhyuk.tistory.com/169?category=1022344)
+- [reset, checkout](https://ahn3330.tistory.com/37)
 
 ### Spring
 - [Spring Boot vs Spring](https://kyhyuk.tistory.com/163?category=1022345)
