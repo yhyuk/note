@@ -20,6 +20,9 @@
 ### Spring
 - [Spring Boot vs Spring](https://kyhyuk.tistory.com/163?category=1022345)
 
+### MyBatis
+- [if - else 사용하기 (choose)](https://kyhyuk.tistory.com/178)
+
 ### AWS
 - [AWS 개요](https://kyhyuk.tistory.com/170?category=1025079)
 - [EC2 (Elastic Compute Cloud)](https://kyhyuk.tistory.com/171?category=102507)
