@@ -31,3 +31,6 @@
 
 ### MySQL
 - [JOIN (INNER, OUTER)](https://kyhyuk.tistory.com/173?category=1025928)
+
+### Jenkins
+- [빌드의 자동화를 위한 젠킨스(Jenkins)](https://kyhyuk.tistory.com/179)
