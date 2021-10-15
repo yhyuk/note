@@ -32,6 +32,7 @@
 ### MySQL
 - [JOIN (INNER, OUTER)](https://kyhyuk.tistory.com/173?category=1025928)
 - [DATE_ADD 날짜 계산 함수](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kkson50&logNo=221752904699)
+- [위도, 경도를 이용한 특정 위치(거리)안에 위치구하기](https://kyhyuk.tistory.com/180)
 
 ### Jenkins
 - [빌드의 자동화를 위한 젠킨스(Jenkins)](https://kyhyuk.tistory.com/179)
