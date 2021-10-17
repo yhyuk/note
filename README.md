@@ -1,7 +1,5 @@
 # T.I.L
 
-## 하루에 최소 한가지의 내용이라도 공부
-
 ### Java
 - [데이터 타입 Integer와 Int의 차이](https://kyhyuk.tistory.com/176)
 - [연산자 equals vs ==](https://mine-it-record.tistory.com/136)
@@ -36,3 +34,6 @@
 
 ### Jenkins
 - [빌드의 자동화를 위한 젠킨스(Jenkins)](https://kyhyuk.tistory.com/179)
+
+### Thymeleaf
+- [타임리프 사용법 및 문법](https://developer-rooney.tistory.com/158)
