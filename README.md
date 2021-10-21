@@ -4,6 +4,7 @@
 - [데이터 타입 Integer와 Int의 차이](https://kyhyuk.tistory.com/176)
 - [연산자 equals vs ==](https://mine-it-record.tistory.com/136)
 - [압축 파일 jar vs war](https://kyhyuk.tistory.com/181)
+- [깊은복사, 얕은복사](https://velog.io/@ahnick/Java-Call-by-Value-Call-by-Reference)
 
 ### Git
 - [Git의 정의와 목적](https://kyhyuk.tistory.com/161?category=1022344)
