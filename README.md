@@ -41,3 +41,7 @@
 
 ### Thymeleaf
 - [타임리프 사용법 및 문법](https://developer-rooney.tistory.com/158)
+- [Spring Boot환경의 타임리프 사용](https://dev-gorany.tistory.com/302)
+
+### Programming
+- [Clean Code](https://mangkyu.tistory.com/132)
