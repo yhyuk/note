@@ -4,9 +4,12 @@
 - [데이터 타입 Integer와 Int의 차이](https://kyhyuk.tistory.com/176)
 - [연산자 equals vs ==](https://mine-it-record.tistory.com/136)
 - [압축 파일 jar vs war](https://kyhyuk.tistory.com/181)
-- [깊은복사, 얕은복사](https://velog.io/@ahnick/Java-Call-by-Value-Call-by-Reference)
+- [깊은복사, 얕은복사](https://kyhyuk.tistory.com/182)
 - [equals, ==, compareTo 차이](https://kiki-100.tistory.com/2)
 - [직렬화(Serialize)](https://nesoy.github.io/articles/2018-04/Java-Serialize)
+
+### Lombok
+- [@NoArgsConstructor, @AllArgsConstructor, @RequireArgsConstructor](https://kyhyuk.tistory.com/183)
 
 ### Git
 - [Git의 정의와 목적](https://kyhyuk.tistory.com/161?category=1022344)
