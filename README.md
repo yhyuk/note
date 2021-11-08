@@ -49,3 +49,6 @@
 
 ### Programming
 - [Clean Code](https://mangkyu.tistory.com/132)
+
+### Shell
+- [hombrew 설치 및 zsh: command not found 해결 (Mac M1 Pro)](https://kyhyuk.tistory.com/185)
