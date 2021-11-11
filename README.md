@@ -52,3 +52,6 @@
 
 ### Shell
 - [hombrew 설치 및 zsh: command not found 해결 (Mac M1 Pro)](https://kyhyuk.tistory.com/185)
+
+### IDE
+- [Type: In word 경고창 지우기(스펠링 체크 제거) for Mac](https://kyhyuk.tistory.com/186)
