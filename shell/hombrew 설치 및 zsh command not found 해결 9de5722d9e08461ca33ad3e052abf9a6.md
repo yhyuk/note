@@ -1,4 +1,4 @@
-# hombrew 설치 및 zsh: command not found 해결 (Mac M1 Pro)
+# hombrew 설치 및 zsh: command not found 해결
 
 터미널에서 버전확인을 위해 npm -v 입력했을 때 이런식으로 나오길래 당황해서 구글링으로 해결했는데 나중에 똑같은 에러가 발생했을 때를 위해 기록해 두려고한다.
 

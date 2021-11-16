@@ -8,6 +8,7 @@
 - [equals, ==, compareTo 차이](https://kiki-100.tistory.com/2)
 - [직렬화(Serialize)](https://nesoy.github.io/articles/2018-04/Java-Serialize)
 - [두 개의 List를 stream을 사용해서 비교하기](https://kyhyuk.tistory.com/184)
+- [Java8에서의 날짜/시간 비교](https://kyhyuk.tistory.com/187?category=982967)
 
 ### Lombok
 - [@NoArgsConstructor, @AllArgsConstructor, @RequireArgsConstructor](https://kyhyuk.tistory.com/183)
@@ -51,7 +52,7 @@
 - [Clean Code](https://mangkyu.tistory.com/132)
 
 ### Shell
-- [hombrew 설치 및 zsh: command not found 해결 (Mac M1 Pro)](https://kyhyuk.tistory.com/185)
+- [hombrew 설치 및 zsh: command not found 해결](https://kyhyuk.tistory.com/185)
 
 ### IDE
 - [Type: In word 경고창 지우기(스펠링 체크 제거) for Mac](https://kyhyuk.tistory.com/186)
