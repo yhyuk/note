@@ -9,6 +9,7 @@
 - [직렬화(Serialize)](https://nesoy.github.io/articles/2018-04/Java-Serialize)
 - [두 개의 List를 stream을 사용해서 비교하기](https://kyhyuk.tistory.com/184)
 - [Java8에서의 날짜/시간 비교](https://kyhyuk.tistory.com/187?category=982967)
+- [디버깅 ver.1](https://github.com/yhyuk/T.I.L/blob/main/java/%5BJava%5D%20%EB%94%94%EB%B2%84%EA%B9%85%20%EC%A0%88%EC%B0%A8%20ver%2C%201%207cae5c2627594d1da050a657591a00d5.md)
 
 ### Lombok
 - [@NoArgsConstructor, @AllArgsConstructor, @RequireArgsConstructor](https://kyhyuk.tistory.com/183)
