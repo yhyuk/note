@@ -58,3 +58,4 @@
 ### IDE
 - [Type: In word 경고창 지우기(스펠링 체크 제거) for Mac](https://kyhyuk.tistory.com/186)
 - [devtools 설정하기](https://youtrack.jetbrains.com/issue/IDEA-274903)
+
