@@ -41,7 +41,7 @@ curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C ho
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc
 ```
 
-### 6. 마지막으로 아래 명령어 실행
+### 6. 마지막으로 아래 명령어 실행한다.
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://gist.githubusercontent.com/nrubin29/bea5aa83e8dfa91370fe83b62dad6dfa/raw/48f48f7fef21abb308e129a80b3214c2538fc611/homebrew_m1.sh)"
